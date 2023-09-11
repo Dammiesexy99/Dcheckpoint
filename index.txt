@@ -1,0 +1,10 @@
+Solution
+create a variable to hold the sum
+read set one element
+check if set 1 elementis not present
+create variable for set 1 and 2
+if true add element to sum 
+read set 2 
+check if element in set 2 is not in set 1 
+if true add the element to sum 
+print sum  
